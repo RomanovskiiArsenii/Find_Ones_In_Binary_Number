@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_Ones_In_Binary_Number", "Find_Ones_In_Binary_Number\Find_Ones_In_Binary_Number.csproj", "{82D8BE3F-D28A-4DC6-9524-D0BFD0B1D583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82D8BE3F-D28A-4DC6-9524-D0BFD0B1D583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D8BE3F-D28A-4DC6-9524-D0BFD0B1D583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D8BE3F-D28A-4DC6-9524-D0BFD0B1D583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D8BE3F-D28A-4DC6-9524-D0BFD0B1D583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFAD0023-B28B-48BA-930E-6F8E2ACE2B88}
+	EndGlobalSection
+EndGlobal
